@@ -3,4 +3,4 @@
 # Асатилла Сагдуллаев
 Мои домашние задания
 
-[Урок 12](https://sagullayevvv.github.io/lesson12/"Моя готовая домашка)
+[Урок 12](https://sagullayevvv.github.io/lesson12/"Моя готовая домашка) - Работа с репозиторием на GitHub
